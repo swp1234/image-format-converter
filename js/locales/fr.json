@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Image Format Converter",
+    "description": "Convert images locally to PNG, JPEG, or WebP with quality control and no upload required."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
